@@ -1,6 +1,6 @@
 # MVP-GESTAO-AGIL
 
-Este é o MVP da Discipliand e Gestão Ágil de Projetos e Produtos.
+Este é o MVP da Disciplina de Gestão Ágil de Projetos e Produtos.
 
 Link para acesso ao vídeo de apresentação:https://www.youtube.com/watch?v=hCwJvVUyXBs
 
